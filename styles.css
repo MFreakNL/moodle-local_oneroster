@@ -1,0 +1,3 @@
+#multiselect-schools option[data-categoryid="0"]::after {
+    content: " (!)";
+}
